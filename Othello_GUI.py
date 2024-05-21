@@ -1,14 +1,3 @@
-"""
- AUTHORS:
-    Bishoy George        20217021   S12
-    Omar Ahmed Mohamed   20216067   S12
-    Zaynab El Agamy      20215016   S11
-    Farah Mohamad        20216128   S11
-    Toka Abd El Ghafar   20218003   S11
-
-"""
-
-
 import tkinter as tk
 
 
